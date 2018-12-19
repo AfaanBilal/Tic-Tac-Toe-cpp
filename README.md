@@ -4,7 +4,7 @@ Tic Tac Toe
 Author: **Afaan Bilal ([@AfaanBilal](https://github.com/AfaanBilal))**   
 Author URL: **[Google+](https://google.com/+AfaanBilal)**
 
-##### Project page: [afaan.ml/Tic-Tac-Toe](https://afaan.ml/Tic-Tac-Toe)
+##### Project page: [afaanbilal.github.io/Tic-Tac-Toe](https://afaanbilal.github.io/Tic-Tac-Toe)
 ##### Download: [Executable, V1.0.0](https://afaan.ml/Tic-Tac-Toe/TicTacToe-cpp-GUI-Executable.zip)
 
 ## Introduction
