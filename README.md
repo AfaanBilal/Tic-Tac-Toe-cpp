@@ -1,10 +1,10 @@
 Tic Tac Toe
 ==============
 
-Author: **[Afaan Bilal](https://afaan.me)**  
+Author: **[Afaan Bilal](https://afaan.dev)**  
 
-##### Project page: [afaanbilal.github.io/Tic-Tac-Toe](https://afaan.me/Tic-Tac-Toe)
-##### Download: [Executable, V1.0.0](https://afaan.me/Tic-Tac-Toe/TicTacToe-cpp-GUI-Executable.zip)
+##### Project page: [afaan.dev/Tic-Tac-Toe](https://afaan.dev/Tic-Tac-Toe)
+##### Download: [Executable, V1.0.0](https://afaan.dev/Tic-Tac-Toe/TicTacToe-cpp-GUI-Executable.zip)
 
 ## Introduction
 **Tic Tac Toe** is a C++ GUI game built using wxWidgets to play the simple game of *Tic Tac Toe*, 
